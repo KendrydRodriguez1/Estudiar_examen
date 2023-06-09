@@ -1,0 +1,12 @@
+#Metodos
+#Index: sirve para poder encontrar un caracteres en especial: indice = lista.index("hola")
+#remove: sirve para eliminar un elemento en especifico de un array lista.remove()
+#find: Para encontrar un caracter dentro de una cadena de texto: caracter = palabra.find(buscar) y devuelve supocision
+#replace: remplaza algo: remplazar = varaible.replace(2)
+#Capitalize: Sirve para poder hacer mayuscula la primera palabra
+#uppert: hacer mayuscula
+#lower: hacer miniscula
+#reverse: gira un array
+#sort: ordena un array
+#El método strip() en Python se utiliza para eliminar los caracteres de espacio en blanco 
+#Join: sirve para poder convertir un array a una cadena de texto: salida = " ".Join(array)
